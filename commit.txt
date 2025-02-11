@@ -1,4 +1,4 @@
 Tak jsem pridal sonarCube a securoty token zaroven organizaci a skupinu snad
 jeste jsem vypnul automatickou analyzu kodu v sonarCube
 
-pokus
+povolil jsem setting/feature/issue create 
